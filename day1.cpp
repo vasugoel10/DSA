@@ -1,16 +1,5 @@
 #include <iostream>
 using namespace std;
-// code 1 (farhenheit to celcius with init , final ,step)
-// void table(int initial_value, int final_value,int step) {
-// double C;
-// for (int i=initial_value; i<=final_value;i+=step){
-//     C= 5.0*(i-32)/9;
-//     cout<< i << "  " << C << endl;
-// }
-// }
-// int main() {
-//     table(5,30,2);
-// }
 // CODE 2 typecasting checking uppercase and lowercase
 // int main() {
 //     char ch;
@@ -42,7 +31,30 @@ using namespace std;
 // int main(){
 //     cout<<sizeof(int)<<endl;
 // }
+// code: reverse a number
 int main(){
-    const float pi=3.14;
-    cout<<pi<<endl;
+    int k;
+    cin>>k;
+    string m=to_string(k);
+    string l="";
+    
+    for (int i=m.size()-1;i>=0;i--){
+        l+=m[i];
+    }
+    cout<<l<<endl;
 }
+// code : pattern
+// int main(){
+//     for (int i=0;i<=4;i++) {
+//         for (int j =0;j<i;j++){
+//             if ((i+j)%2==0){
+//                 cout<<"0 ";
+//             }
+//             else{
+//                 cout<<"1 ";
+//             }
+
+//         }
+//         cout<<" "<<endl;
+//     }
+// }
