@@ -1,6 +1,8 @@
 #include <iostream>
 #include <climits>
 using namespace std;
+// selection sort 
+// find minimum value and put it in first position 
 
 int main() {
     int n;
