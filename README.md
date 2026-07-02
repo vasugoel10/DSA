@@ -9,20 +9,21 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 6 |
-| ✅ Problems Solved | 18 |
-| 🕒 Last Updated | 01 July 2026 |
+| ✅ Problems Solved | 19 |
+| 🕒 Last Updated | 02 July 2026 |
 
 ---
 
 ## 📂 Topics
 
 <details>
-<summary><b>📁 Basic Programming (5 Problems)</b></summary>
+<summary><b>📁 Basic Programming (6 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
 | Fahrenheit To Celsius | [Code](00_Basic_Programming/fahrenheit_to_celsius.cpp) |
 | Pattern — Pattern | [Code](00_Basic_Programming/pattern/01_pattern.cpp) |
+| Pattern — Ganesha Pattern | [Code](00_Basic_Programming/pattern/ganesha_pattern.cpp) |
 | Shortest Path | [Code](00_Basic_Programming/shortest_path.cpp) |
 | Switch Case | [Code](00_Basic_Programming/switch_case.cpp) |
 | Uppercase Lowercase | [Code](00_Basic_Programming/uppercase_lowercase.cpp) |
