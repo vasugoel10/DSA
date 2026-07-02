@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 6 |
-| ✅ Problems Solved | 20 |
+| ✅ Problems Solved | 21 |
 | 🕒 Last Updated | 02 July 2026 |
 
 ---
@@ -17,12 +17,13 @@
 ## 📂 Topics
 
 <details>
-<summary><b>📁 Basic Programming (7 Problems)</b></summary>
+<summary><b>📁 Basic Programming (8 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
 | Fahrenheit To Celsius | [Code](00_Basic_Programming/fahrenheit_to_celsius.cpp) |
 | Pattern — Pattern | [Code](00_Basic_Programming/pattern/01_pattern.cpp) |
+| Pattern — Downward Triangle Pattern | [Code](00_Basic_Programming/pattern/Downward%20Triangle%20Pattern.cpp) |
 | Pattern — Ganesha Pattern | [Code](00_Basic_Programming/pattern/ganesha_pattern.cpp) |
 | Pattern — Star Pattern | [Code](00_Basic_Programming/pattern/star_pattern.cpp) |
 | Shortest Path | [Code](00_Basic_Programming/shortest_path.cpp) |
