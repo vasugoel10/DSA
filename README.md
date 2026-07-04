@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 6 |
-| ✅ Problems Solved | 24 |
+| ✅ Problems Solved | 25 |
 | 🕒 Last Updated | 04 July 2026 |
 
 ---
@@ -60,10 +60,11 @@
 </details>
 
 <details>
-<summary><b>📁 Mathematics (1 Problem)</b></summary>
+<summary><b>📁 Mathematics (2 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
+| Factorial | [Code](07_Mathematics/factorial.cpp) |
 | Square Root | [Code](07_Mathematics/square_root.cpp) |
 
 </details>
