@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 6 |
-| ✅ Problems Solved | 25 |
+| ✅ Problems Solved | 26 |
 | 🕒 Last Updated | 04 July 2026 |
 
 ---
@@ -60,10 +60,11 @@
 </details>
 
 <details>
-<summary><b>📁 Mathematics (2 Problems)</b></summary>
+<summary><b>📁 Mathematics (3 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
+| Calculate Ncr | [Code](07_Mathematics/calculate_nCr.cpp) |
 | Factorial | [Code](07_Mathematics/factorial.cpp) |
 | Square Root | [Code](07_Mathematics/square_root.cpp) |
 
