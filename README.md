@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 6 |
-| ✅ Problems Solved | 27 |
+| ✅ Problems Solved | 28 |
 | 🕒 Last Updated | 04 July 2026 |
 
 ---
@@ -35,12 +35,13 @@
 </details>
 
 <details>
-<summary><b>📁 Arrays (7 Problems)</b></summary>
+<summary><b>📁 Arrays (8 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
 | Target Sum Pairs | [Code](01_Arrays/Target_Sum_Pairs.cpp) |
 | Array Input Output | [Code](01_Arrays/array_input_output.cpp) |
+| Binary Search | [Code](01_Arrays/binary_search.cpp) |
 | Linear Search | [Code](01_Arrays/linear_search.cpp) |
 | Linear Search Indices | [Code](01_Arrays/linear_search_indices.cpp) |
 | Maximum Element | [Code](01_Arrays/maximum_element.cpp) |
