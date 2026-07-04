@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int nCr(int n,int r){
-    if (n>r) {
+    if (n>=r) {
     if (r==0){
         return 1;
     }
