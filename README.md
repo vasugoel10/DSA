@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 6 |
-| ✅ Problems Solved | 29 |
+| ✅ Problems Solved | 30 |
 | 🕒 Last Updated | 05 July 2026 |
 
 ---
@@ -52,11 +52,12 @@
 </details>
 
 <details>
-<summary><b>📁 Sorting (3 Problems)</b></summary>
+<summary><b>📁 Sorting (4 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
 | Bubble Sort | [Code](02_Sorting/bubble_sort.cpp) |
+| Insertion Sort | [Code](02_Sorting/insertion_sort.cpp) |
 | Optimised Bubble Sort | [Code](02_Sorting/optimised_bubble_sort.cpp) |
 | Selection Sort | [Code](02_Sorting/selection_sort.cpp) |
 
