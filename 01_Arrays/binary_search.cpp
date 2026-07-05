@@ -34,3 +34,20 @@ if (n == 0) {
 	}
 	return 0;
 }
+// Standard Solution
+int BinarySearch(int a[],int n, int key){
+	int low=0, high=n-1;
+	while(low<=high){
+		int mid=(low+high)/2;
+		if(a[mid]==key){
+			return mid;
+		}
+		else if (key>a[mid]){
+			low=mid+1;
+		}
+		else {
+			high=mid-1;
+		}
+	}
+	return -1;
+}
