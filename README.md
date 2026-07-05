@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 6 |
-| ✅ Problems Solved | 28 |
+| ✅ Problems Solved | 29 |
 | 🕒 Last Updated | 05 July 2026 |
 
 ---
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary><b>📁 Arrays (8 Problems)</b></summary>
+<summary><b>📁 Arrays (9 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
@@ -45,6 +45,7 @@
 | Linear Search | [Code](01_Arrays/linear_search.cpp) |
 | Linear Search Indices | [Code](01_Arrays/linear_search_indices.cpp) |
 | Maximum Element | [Code](01_Arrays/maximum_element.cpp) |
+| Median Two Sorted Array | [Code](01_Arrays/median_two_sorted_array.cpp) |
 | Merge Two Sorted Array | [Code](01_Arrays/merge_two_sorted_array.cpp) |
 | Reverse Array | [Code](01_Arrays/reverse_array.cpp) |
 
