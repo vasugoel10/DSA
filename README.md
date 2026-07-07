@@ -8,9 +8,9 @@
 
 | Metric | Count |
 |:------|------:|
-| 📚 Topics | 6 |
+| 📚 Topics | 7 |
 | ✅ Problems Solved | 30 |
-| 🕒 Last Updated | 05 July 2026 |
+| 🕒 Last Updated | 07 July 2026 |
 
 ---
 
@@ -35,17 +35,13 @@
 </details>
 
 <details>
-<summary><b>📁 Arrays (9 Problems)</b></summary>
+<summary><b>📁 Arrays (5 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
 | Target Sum Pairs | [Code](01_Arrays/Target_Sum_Pairs.cpp) |
 | Array Input Output | [Code](01_Arrays/array_input_output.cpp) |
-| Binary Search | [Code](01_Arrays/binary_search.cpp) |
-| Linear Search | [Code](01_Arrays/linear_search.cpp) |
-| Linear Search Indices | [Code](01_Arrays/linear_search_indices.cpp) |
 | Maximum Element | [Code](01_Arrays/maximum_element.cpp) |
-| Median Two Sorted Array | [Code](01_Arrays/median_two_sorted_array.cpp) |
 | Merge Two Sorted Array | [Code](01_Arrays/merge_two_sorted_array.cpp) |
 | Reverse Array | [Code](01_Arrays/reverse_array.cpp) |
 
@@ -60,6 +56,18 @@
 | Insertion Sort | [Code](02_Sorting/insertion_sort.cpp) |
 | Optimised Bubble Sort | [Code](02_Sorting/optimised_bubble_sort.cpp) |
 | Selection Sort | [Code](02_Sorting/selection_sort.cpp) |
+
+</details>
+
+<details>
+<summary><b>📁 Searching (4 Problems)</b></summary>
+
+| Problem | Solution |
+|---------|----------|
+| Binary Search | [Code](03_Searching/binary_search.cpp) |
+| Linear Search | [Code](03_Searching/linear_search.cpp) |
+| Linear Search Indices | [Code](03_Searching/linear_search_indices.cpp) |
+| Median Two Sorted Array | [Code](03_Searching/median_two_sorted_array.cpp) |
 
 </details>
 
