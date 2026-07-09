@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 7 |
-| ✅ Problems Solved | 31 |
+| ✅ Problems Solved | 32 |
 | 🕒 Last Updated | 09 July 2026 |
 
 ---
@@ -35,12 +35,13 @@
 </details>
 
 <details>
-<summary><b>📁 Arrays (6 Problems)</b></summary>
+<summary><b>📁 Arrays (7 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
 | Product Of Array Except Self | [Code](01_Arrays/Product_of_array_except_self.cpp) |
 | Target Sum Pairs | [Code](01_Arrays/Target_Sum_Pairs.cpp) |
+| All Zero To End | [Code](01_Arrays/all_zero_to_end.cpp) |
 | Array Input Output | [Code](01_Arrays/array_input_output.cpp) |
 | Maximum Element | [Code](01_Arrays/maximum_element.cpp) |
 | Merge Two Sorted Array | [Code](01_Arrays/merge_two_sorted_array.cpp) |
