@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 7 |
-| ✅ Problems Solved | 32 |
+| ✅ Problems Solved | 33 |
 | 🕒 Last Updated | 09 July 2026 |
 
 ---
@@ -35,11 +35,12 @@
 </details>
 
 <details>
-<summary><b>📁 Arrays (7 Problems)</b></summary>
+<summary><b>📁 Arrays (8 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
 | Product Of Array Except Self | [Code](01_Arrays/Product_of_array_except_self.cpp) |
+| Ramu Public Transport | [Code](01_Arrays/Ramu_Public_Transport.cpp) |
 | Target Sum Pairs | [Code](01_Arrays/Target_Sum_Pairs.cpp) |
 | All Zero To End | [Code](01_Arrays/all_zero_to_end.cpp) |
 | Array Input Output | [Code](01_Arrays/array_input_output.cpp) |
