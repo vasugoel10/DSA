@@ -9,8 +9,8 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 7 |
-| ✅ Problems Solved | 33 |
-| 🕒 Last Updated | 09 July 2026 |
+| ✅ Problems Solved | 34 |
+| 🕒 Last Updated | 10 July 2026 |
 
 ---
 
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary><b>📁 Arrays (8 Problems)</b></summary>
+<summary><b>📁 Arrays (9 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
@@ -46,6 +46,7 @@
 | Array Input Output | [Code](01_Arrays/array_input_output.cpp) |
 | Maximum Element | [Code](01_Arrays/maximum_element.cpp) |
 | Merge Two Sorted Array | [Code](01_Arrays/merge_two_sorted_array.cpp) |
+| Next Permutation | [Code](01_Arrays/next_permutation.cpp) |
 | Reverse Array | [Code](01_Arrays/reverse_array.cpp) |
 
 </details>
