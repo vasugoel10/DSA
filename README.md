@@ -8,8 +8,8 @@
 
 | Metric | Count |
 |:------|------:|
-| 📚 Topics | 7 |
-| ✅ Problems Solved | 36 |
+| 📚 Topics | 8 |
+| ✅ Problems Solved | 38 |
 | 🕒 Last Updated | 11 July 2026 |
 
 ---
@@ -85,6 +85,16 @@
 | Calculate Ncr | [Code](07_Mathematics/calculate_nCr.cpp) |
 | Factorial | [Code](07_Mathematics/factorial.cpp) |
 | Square Root | [Code](07_Mathematics/square_root.cpp) |
+
+</details>
+
+<details>
+<summary><b>📁 Recursion (2 Problems)</b></summary>
+
+| Problem | Solution |
+|---------|----------|
+| Is Sorted Array | [Code](08_Recursion/Is_sorted_Array.cpp) |
+| Fibonacci | [Code](08_Recursion/fibonacci.cpp) |
 
 </details>
 
