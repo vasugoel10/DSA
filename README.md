@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 8 |
-| ✅ Problems Solved | 38 |
+| ✅ Problems Solved | 39 |
 | 🕒 Last Updated | 11 July 2026 |
 
 ---
@@ -89,11 +89,12 @@
 </details>
 
 <details>
-<summary><b>📁 Recursion (2 Problems)</b></summary>
+<summary><b>📁 Recursion (3 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
 | Is Sorted Array | [Code](08_Recursion/Is_sorted_Array.cpp) |
+| Factorial | [Code](08_Recursion/factorial.cpp) |
 | Fibonacci | [Code](08_Recursion/fibonacci.cpp) |
 
 </details>
