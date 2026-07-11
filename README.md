@@ -9,15 +9,15 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 7 |
-| ✅ Problems Solved | 34 |
-| 🕒 Last Updated | 10 July 2026 |
+| ✅ Problems Solved | 35 |
+| 🕒 Last Updated | 11 July 2026 |
 
 ---
 
 ## 📂 Topics
 
 <details>
-<summary><b>📁 Basic Programming (10 Problems)</b></summary>
+<summary><b>📁 Basic Programming (11 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
@@ -28,6 +28,7 @@
 | Pattern — Square Pyramid Pattern | [Code](00_Basic_Programming/pattern/Square_Pyramid_Pattern.cpp) |
 | Pattern — Ganesha Pattern | [Code](00_Basic_Programming/pattern/ganesha_pattern.cpp) |
 | Pattern — Star Pattern | [Code](00_Basic_Programming/pattern/star_pattern.cpp) |
+| Pointer | [Code](00_Basic_Programming/pointer.cpp) |
 | Shortest Path | [Code](00_Basic_Programming/shortest_path.cpp) |
 | Switch Case | [Code](00_Basic_Programming/switch_case.cpp) |
 | Uppercase Lowercase | [Code](00_Basic_Programming/uppercase_lowercase.cpp) |
