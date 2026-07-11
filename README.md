@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 8 |
-| ✅ Problems Solved | 42 |
+| ✅ Problems Solved | 43 |
 | 🕒 Last Updated | 11 July 2026 |
 
 ---
@@ -89,7 +89,7 @@
 </details>
 
 <details>
-<summary><b>📁 Recursion (6 Problems)</b></summary>
+<summary><b>📁 Recursion (7 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
@@ -99,6 +99,7 @@
 | Fibonacci | [Code](08_Recursion/fibonacci.cpp) |
 | Linear Search | [Code](08_Recursion/linear_search.cpp) |
 | Power | [Code](08_Recursion/power.cpp) |
+| Reverse Array | [Code](08_Recursion/reverse_array.cpp) |
 
 </details>
 
