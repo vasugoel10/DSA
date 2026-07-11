@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 7 |
-| ✅ Problems Solved | 35 |
+| ✅ Problems Solved | 36 |
 | 🕒 Last Updated | 11 July 2026 |
 
 ---
@@ -17,10 +17,11 @@
 ## 📂 Topics
 
 <details>
-<summary><b>📁 Basic Programming (11 Problems)</b></summary>
+<summary><b>📁 Basic Programming (12 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
+| Char Address | [Code](00_Basic_Programming/char_address.cpp) |
 | Fahrenheit To Celsius | [Code](00_Basic_Programming/fahrenheit_to_celsius.cpp) |
 | Pattern — Pattern | [Code](00_Basic_Programming/pattern/01_pattern.cpp) |
 | Pattern — Downward Triangle Pattern | [Code](00_Basic_Programming/pattern/Downward%20Triangle%20Pattern.cpp) |
