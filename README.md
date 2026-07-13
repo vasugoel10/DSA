@@ -8,9 +8,9 @@
 
 | Metric | Count |
 |:------|------:|
-| 📚 Topics | 8 |
-| ✅ Problems Solved | 44 |
-| 🕒 Last Updated | 11 July 2026 |
+| 📚 Topics | 9 |
+| ✅ Problems Solved | 46 |
+| 🕒 Last Updated | 13 July 2026 |
 
 ---
 
@@ -74,6 +74,16 @@
 | Linear Search | [Code](03_Searching/linear_search.cpp) |
 | Linear Search Indices | [Code](03_Searching/linear_search_indices.cpp) |
 | Median Two Sorted Array | [Code](03_Searching/median_two_sorted_array.cpp) |
+
+</details>
+
+<details>
+<summary><b>📁 Strings (2 Problems)</b></summary>
+
+| Problem | Solution |
+|---------|----------|
+| Basic String | [Code](04_Strings/basic_string.cpp) |
+| Palindrome | [Code](04_Strings/palindrome.cpp) |
 
 </details>
 
