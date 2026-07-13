@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 46 |
+| ✅ Problems Solved | 47 |
 | 🕒 Last Updated | 13 July 2026 |
 
 ---
@@ -78,12 +78,13 @@
 </details>
 
 <details>
-<summary><b>📁 Strings (2 Problems)</b></summary>
+<summary><b>📁 Strings (3 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
 | Basic String | [Code](04_Strings/basic_string.cpp) |
 | Palindrome | [Code](04_Strings/palindrome.cpp) |
+| String Compression | [Code](04_Strings/string_compression.cpp) |
 
 </details>
 
