@@ -9,8 +9,8 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 48 |
-| 🕒 Last Updated | 13 July 2026 |
+| ✅ Problems Solved | 49 |
+| 🕒 Last Updated | 14 July 2026 |
 
 ---
 
@@ -37,10 +37,11 @@
 </details>
 
 <details>
-<summary><b>📁 Arrays (9 Problems)</b></summary>
+<summary><b>📁 Arrays (10 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
+| Maximum Subarray Sum | [Code](01_Arrays/Maximum_subarray_sum.cpp) |
 | Product Of Array Except Self | [Code](01_Arrays/Product_of_array_except_self.cpp) |
 | Ramu Public Transport | [Code](01_Arrays/Ramu_Public_Transport.cpp) |
 | Target Sum Pairs | [Code](01_Arrays/Target_Sum_Pairs.cpp) |
