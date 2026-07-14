@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 50 |
+| ✅ Problems Solved | 51 |
 | 🕒 Last Updated | 14 July 2026 |
 
 ---
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-<summary><b>📁 Arrays (11 Problems)</b></summary>
+<summary><b>📁 Arrays (12 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
@@ -48,6 +48,7 @@
 | All Zero To End | [Code](01_Arrays/all_zero_to_end.cpp) |
 | Array Input Output | [Code](01_Arrays/array_input_output.cpp) |
 | Kadane Algorithm | [Code](01_Arrays/kadane_algorithm.cpp) |
+| Max Circular Array | [Code](01_Arrays/max_circular_Array.cpp) |
 | Maximum Element | [Code](01_Arrays/maximum_element.cpp) |
 | Merge Two Sorted Array | [Code](01_Arrays/merge_two_sorted_array.cpp) |
 | Next Permutation | [Code](01_Arrays/next_permutation.cpp) |
