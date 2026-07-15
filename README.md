@@ -9,8 +9,8 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 51 |
-| 🕒 Last Updated | 14 July 2026 |
+| ✅ Problems Solved | 52 |
+| 🕒 Last Updated | 15 July 2026 |
 
 ---
 
@@ -37,10 +37,11 @@
 </details>
 
 <details>
-<summary><b>📁 Arrays (12 Problems)</b></summary>
+<summary><b>📁 Arrays (13 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
+| Aggressive Cow | [Code](01_Arrays/AGGRESSIVE_COW.cpp) |
 | Maximum Subarray Sum | [Code](01_Arrays/Maximum_subarray_sum.cpp) |
 | Product Of Array Except Self | [Code](01_Arrays/Product_of_array_except_self.cpp) |
 | Ramu Public Transport | [Code](01_Arrays/Ramu_Public_Transport.cpp) |
