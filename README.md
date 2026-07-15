@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 52 |
+| ✅ Problems Solved | 53 |
 | 🕒 Last Updated | 15 July 2026 |
 
 ---
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-<summary><b>📁 Arrays (13 Problems)</b></summary>
+<summary><b>📁 Arrays (14 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
@@ -53,6 +53,7 @@
 | Maximum Element | [Code](01_Arrays/maximum_element.cpp) |
 | Merge Two Sorted Array | [Code](01_Arrays/merge_two_sorted_array.cpp) |
 | Next Permutation | [Code](01_Arrays/next_permutation.cpp) |
+| Painter Problem | [Code](01_Arrays/painter_problem.cpp) |
 | Reverse Array | [Code](01_Arrays/reverse_array.cpp) |
 
 </details>
