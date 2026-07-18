@@ -9,8 +9,8 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 55 |
-| 🕒 Last Updated | 16 July 2026 |
+| ✅ Problems Solved | 56 |
+| 🕒 Last Updated | 18 July 2026 |
 
 ---
 
@@ -83,10 +83,11 @@
 </details>
 
 <details>
-<summary><b>📁 Strings (4 Problems)</b></summary>
+<summary><b>📁 Strings (5 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
+| All Substring | [Code](04_Strings/all_substring.cpp) |
 | Basic String | [Code](04_Strings/basic_string.cpp) |
 | Max Frequency String | [Code](04_Strings/max_frequency_string.cpp) |
 | Palindrome | [Code](04_Strings/palindrome.cpp) |
