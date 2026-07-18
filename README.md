@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 56 |
+| ✅ Problems Solved | 57 |
 | 🕒 Last Updated | 18 July 2026 |
 
 ---
@@ -83,12 +83,13 @@
 </details>
 
 <details>
-<summary><b>📁 Strings (5 Problems)</b></summary>
+<summary><b>📁 Strings (6 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
 | All Substring | [Code](04_Strings/all_substring.cpp) |
 | Basic String | [Code](04_Strings/basic_string.cpp) |
+| Is String Permutation | [Code](04_Strings/is_string_permutation.cpp) |
 | Max Frequency String | [Code](04_Strings/max_frequency_string.cpp) |
 | Palindrome | [Code](04_Strings/palindrome.cpp) |
 | String Compression | [Code](04_Strings/string_compression.cpp) |
