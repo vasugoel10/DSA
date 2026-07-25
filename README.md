@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 59 |
+| ✅ Problems Solved | 60 |
 | 🕒 Last Updated | 25 July 2026 |
 
 ---
@@ -37,11 +37,12 @@
 </details>
 
 <details>
-<summary><b>📁 Arrays (15 Problems)</b></summary>
+<summary><b>📁 Arrays (16 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
 | D Array — Waveprint | [Code](01_Arrays/2D_array/Waveprint.cpp) |
+| D Array — Transpose | [Code](01_Arrays/2D_array/transpose.cpp) |
 | Aggressive Cow | [Code](01_Arrays/AGGRESSIVE_COW.cpp) |
 | Maximum Subarray Sum | [Code](01_Arrays/Maximum_subarray_sum.cpp) |
 | Product Of Array Except Self | [Code](01_Arrays/Product_of_array_except_self.cpp) |
