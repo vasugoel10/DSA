@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 63 |
+| ✅ Problems Solved | 64 |
 | 🕒 Last Updated | 01 August 2026 |
 
 ---
@@ -112,13 +112,14 @@
 </details>
 
 <details>
-<summary><b>📁 Recursion (12 Problems)</b></summary>
+<summary><b>📁 Recursion (13 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
 | Is Sorted Array | [Code](08_Recursion/Is_sorted_Array.cpp) |
 | Last Occurence | [Code](08_Recursion/Last_Occurence.cpp) |
 | Phone Keypad | [Code](08_Recursion/Phone_Keypad.cpp) |
+| Ratways | [Code](08_Recursion/Ratways.cpp) |
 | Binary Search | [Code](08_Recursion/binary_search.cpp) |
 | Elephant Ways | [Code](08_Recursion/elephant_ways.cpp) |
 | Factorial | [Code](08_Recursion/factorial.cpp) |
