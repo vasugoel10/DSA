@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 65 |
+| ✅ Problems Solved | 66 |
 | 🕒 Last Updated | 01 August 2026 |
 
 ---
@@ -112,7 +112,7 @@
 </details>
 
 <details>
-<summary><b>📁 Recursion (14 Problems)</b></summary>
+<summary><b>📁 Recursion (15 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
@@ -130,6 +130,7 @@
 | Power | [Code](08_Recursion/power.cpp) |
 | Reverse Array | [Code](08_Recursion/reverse_array.cpp) |
 | Stoi | [Code](08_Recursion/stoi.cpp) |
+| Stringpermutation | [Code](08_Recursion/stringpermutation.cpp) |
 
 </details>
 
