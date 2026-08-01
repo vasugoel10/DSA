@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 70 |
+| ✅ Problems Solved | 71 |
 | 🕒 Last Updated | 01 August 2026 |
 
 ---
@@ -37,10 +37,11 @@
 </details>
 
 <details>
-<summary><b>📁 Arrays (19 Problems)</b></summary>
+<summary><b>📁 Arrays (20 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
+| D Array — Darrayprint | [Code](01_Arrays/2D_array/2dArrayPrint.cpp) |
 | D Array — Findnumber | [Code](01_Arrays/2D_array/FindNumber.cpp) |
 | D Array — Rotatearray | [Code](01_Arrays/2D_array/Rotatearray.cpp) |
 | D Array — Waveprint | [Code](01_Arrays/2D_array/Waveprint.cpp) |
