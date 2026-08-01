@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 64 |
+| ✅ Problems Solved | 65 |
 | 🕒 Last Updated | 01 August 2026 |
 
 ---
@@ -112,7 +112,7 @@
 </details>
 
 <details>
-<summary><b>📁 Recursion (13 Problems)</b></summary>
+<summary><b>📁 Recursion (14 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
@@ -129,6 +129,7 @@
 | Max Element | [Code](08_Recursion/max_element.cpp) |
 | Power | [Code](08_Recursion/power.cpp) |
 | Reverse Array | [Code](08_Recursion/reverse_array.cpp) |
+| Stoi | [Code](08_Recursion/stoi.cpp) |
 
 </details>
 
