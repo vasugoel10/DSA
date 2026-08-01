@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 66 |
+| ✅ Problems Solved | 67 |
 | 🕒 Last Updated | 01 August 2026 |
 
 ---
@@ -112,7 +112,7 @@
 </details>
 
 <details>
-<summary><b>📁 Recursion (15 Problems)</b></summary>
+<summary><b>📁 Recursion (16 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
@@ -120,6 +120,7 @@
 | Last Occurence | [Code](08_Recursion/Last_Occurence.cpp) |
 | Phone Keypad | [Code](08_Recursion/Phone_Keypad.cpp) |
 | Ratways | [Code](08_Recursion/Ratways.cpp) |
+| Tower Of Hanoi | [Code](08_Recursion/Tower_of_Hanoi.cpp) |
 | Binary Search | [Code](08_Recursion/binary_search.cpp) |
 | Elephant Ways | [Code](08_Recursion/elephant_ways.cpp) |
 | Factorial | [Code](08_Recursion/factorial.cpp) |
