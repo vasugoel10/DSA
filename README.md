@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 68 |
+| ✅ Problems Solved | 69 |
 | 🕒 Last Updated | 01 August 2026 |
 
 ---
@@ -37,10 +37,11 @@
 </details>
 
 <details>
-<summary><b>📁 Arrays (17 Problems)</b></summary>
+<summary><b>📁 Arrays (18 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
+| D Array — Rotatearray | [Code](01_Arrays/2D_array/Rotatearray.cpp) |
 | D Array — Waveprint | [Code](01_Arrays/2D_array/Waveprint.cpp) |
 | D Array — Spiral Print | [Code](01_Arrays/2D_array/spiral_print.cpp) |
 | D Array — Transpose | [Code](01_Arrays/2D_array/transpose.cpp) |
