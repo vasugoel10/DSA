@@ -9,7 +9,7 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 72 |
+| ✅ Problems Solved | 73 |
 | 🕒 Last Updated | 02 August 2026 |
 
 ---
@@ -17,10 +17,11 @@
 ## 📂 Topics
 
 <details>
-<summary><b>📁 Basic Programming (12 Problems)</b></summary>
+<summary><b>📁 Basic Programming (13 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
+| Oops | [Code](00_Basic_Programming/OOPS.cpp) |
 | Char Address | [Code](00_Basic_Programming/char_address.cpp) |
 | Fahrenheit To Celsius | [Code](00_Basic_Programming/fahrenheit_to_celsius.cpp) |
 | Pattern — Pattern | [Code](00_Basic_Programming/pattern/01_pattern.cpp) |
