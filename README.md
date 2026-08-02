@@ -9,8 +9,8 @@
 | Metric | Count |
 |:------|------:|
 | 📚 Topics | 9 |
-| ✅ Problems Solved | 71 |
-| 🕒 Last Updated | 01 August 2026 |
+| ✅ Problems Solved | 72 |
+| 🕒 Last Updated | 02 August 2026 |
 
 ---
 
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-<summary><b>📁 Arrays (20 Problems)</b></summary>
+<summary><b>📁 Arrays (21 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
@@ -61,6 +61,7 @@
 | Next Permutation | [Code](01_Arrays/next_permutation.cpp) |
 | Painter Problem | [Code](01_Arrays/painter_problem.cpp) |
 | Reverse Array | [Code](01_Arrays/reverse_array.cpp) |
+| Vector — Vector | [Code](01_Arrays/vector/vector.cpp) |
 
 </details>
 
