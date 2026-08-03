@@ -6,6 +6,7 @@ class Car{
     public:
     string name;
     int model;
+    
     Car(){
     cout<<" "<<endl;
     }
@@ -51,3 +52,4 @@ int main(){
     D=C;
     D.Print();
 }
+// Destructor will delete the object in opposite order than to constructor
