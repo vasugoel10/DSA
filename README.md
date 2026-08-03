@@ -8,22 +8,23 @@
 
 | Metric | Count |
 |:------|------:|
-| 📚 Topics | 9 |
-| ✅ Problems Solved | 73 |
-| 🕒 Last Updated | 02 August 2026 |
+| 📚 Topics | 10 |
+| ✅ Problems Solved | 76 |
+| 🕒 Last Updated | 03 August 2026 |
 
 ---
 
 ## 📂 Topics
 
 <details>
-<summary><b>📁 Basic Programming (13 Problems)</b></summary>
+<summary><b>📁 Basic Programming (14 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
 | Oops | [Code](00_Basic_Programming/OOPS.cpp) |
 | Char Address | [Code](00_Basic_Programming/char_address.cpp) |
 | Fahrenheit To Celsius | [Code](00_Basic_Programming/fahrenheit_to_celsius.cpp) |
+| Oppsi | [Code](00_Basic_Programming/oppsi.cpp) |
 | Pattern — Pattern | [Code](00_Basic_Programming/pattern/01_pattern.cpp) |
 | Pattern — Downward Triangle Pattern | [Code](00_Basic_Programming/pattern/Downward%20Triangle%20Pattern.cpp) |
 | Pattern — Square Pattern | [Code](00_Basic_Programming/pattern/Square_Pattern.cpp) |
@@ -117,7 +118,7 @@
 </details>
 
 <details>
-<summary><b>📁 Recursion (17 Problems)</b></summary>
+<summary><b>📁 Recursion (18 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
@@ -134,10 +135,20 @@
 | Linear Search | [Code](08_Recursion/linear_search.cpp) |
 | Max Element | [Code](08_Recursion/max_element.cpp) |
 | Power | [Code](08_Recursion/power.cpp) |
+| Recursion Twin | [Code](08_Recursion/recursion_twin.cpp) |
 | Reverse Array | [Code](08_Recursion/reverse_array.cpp) |
 | Stoi | [Code](08_Recursion/stoi.cpp) |
 | Stringpermutation | [Code](08_Recursion/stringpermutation.cpp) |
 | Subsequences | [Code](08_Recursion/subsequences.cpp) |
+
+</details>
+
+<details>
+<summary><b>📁 Linked List (1 Problem)</b></summary>
+
+| Problem | Solution |
+|---------|----------|
+| Dma | [Code](10_Linked_List/DMA.cpp) |
 
 </details>
 
