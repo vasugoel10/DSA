@@ -8,9 +8,9 @@
 
 | Metric | Count |
 |:------|------:|
-| 📚 Topics | 10 |
-| ✅ Problems Solved | 76 |
-| 🕒 Last Updated | 03 August 2026 |
+| 📚 Topics | 11 |
+| ✅ Problems Solved | 91 |
+| 🕒 Last Updated | 22 August 2026 |
 
 ---
 
@@ -81,22 +81,14 @@
 </details>
 
 <details>
-<summary><b>📁 Searching (4 Problems)</b></summary>
+<summary><b>📁 Strings (10 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
-| Binary Search | [Code](03_Searching/binary_search.cpp) |
-| Linear Search | [Code](03_Searching/linear_search.cpp) |
-| Linear Search Indices | [Code](03_Searching/linear_search_indices.cpp) |
-| Median Two Sorted Array | [Code](03_Searching/median_two_sorted_array.cpp) |
-
-</details>
-
-<details>
-<summary><b>📁 Strings (6 Problems)</b></summary>
-
-| Problem | Solution |
-|---------|----------|
+| Searching — Binary Search | [Code](04_Strings/03_Searching/binary_search.cpp) |
+| Searching — Linear Search | [Code](04_Strings/03_Searching/linear_search.cpp) |
+| Searching — Linear Search Indices | [Code](04_Strings/03_Searching/linear_search_indices.cpp) |
+| Searching — Median Two Sorted Array | [Code](04_Strings/03_Searching/median_two_sorted_array.cpp) |
 | All Substring | [Code](04_Strings/all_substring.cpp) |
 | Basic String | [Code](04_Strings/basic_string.cpp) |
 | Is String Permutation | [Code](04_Strings/is_string_permutation.cpp) |
@@ -118,11 +110,11 @@
 </details>
 
 <details>
-<summary><b>📁 Recursion (18 Problems)</b></summary>
+<summary><b>📁 Recursion (20 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
-| Is Sorted Array | [Code](08_Recursion/Is_sorted_Array.cpp) |
+| Dictionary Order(larger) | [Code](08_Recursion/Dictionary_order%28larger%29.cpp) |
 | Last Occurence | [Code](08_Recursion/Last_Occurence.cpp) |
 | Phone Keypad | [Code](08_Recursion/Phone_Keypad.cpp) |
 | Ratways | [Code](08_Recursion/Ratways.cpp) |
@@ -132,6 +124,7 @@
 | Factorial | [Code](08_Recursion/factorial.cpp) |
 | Fibonacci | [Code](08_Recursion/fibonacci.cpp) |
 | First Occurence | [Code](08_Recursion/first_occurence.cpp) |
+| Issorted | [Code](08_Recursion/isSorted.cpp) |
 | Linear Search | [Code](08_Recursion/linear_search.cpp) |
 | Max Element | [Code](08_Recursion/max_element.cpp) |
 | Power | [Code](08_Recursion/power.cpp) |
@@ -140,15 +133,45 @@
 | Stoi | [Code](08_Recursion/stoi.cpp) |
 | Stringpermutation | [Code](08_Recursion/stringpermutation.cpp) |
 | Subsequences | [Code](08_Recursion/subsequences.cpp) |
+| Target Subset | [Code](08_Recursion/target_subset.cpp) |
 
 </details>
 
 <details>
-<summary><b>📁 Linked List (1 Problem)</b></summary>
+<summary><b>📁 Linked List (3 Problems)</b></summary>
 
 | Problem | Solution |
 |---------|----------|
 | Dma | [Code](10_Linked_List/DMA.cpp) |
+| Reverse Linked List | [Code](10_Linked_List/reverse_linked_list.cpp) |
+| Single Linked List | [Code](10_Linked_List/single_linked_list.cpp) |
+
+</details>
+
+<details>
+<summary><b>📁 Stack (7 Problems)</b></summary>
+
+| Problem | Solution |
+|---------|----------|
+| Next Greater | [Code](11_Stack/Next_greater.cpp) |
+| Next Smaller | [Code](11_Stack/Next_smaller.cpp) |
+| Stack Using Ll | [Code](11_Stack/Stack_using_LL.cpp) |
+| Balanced Paranthesis | [Code](11_Stack/balanced_paranthesis.cpp) |
+| Basics | [Code](11_Stack/basics.cpp) |
+| Duplicate Paranthesis | [Code](11_Stack/duplicate_paranthesis.cpp) |
+| Reverse Stack | [Code](11_Stack/reverse_stack.cpp) |
+
+</details>
+
+<details>
+<summary><b>📁 Queue (4 Problems)</b></summary>
+
+| Problem | Solution |
+|---------|----------|
+| Circular Queue | [Code](12_Queue/Circular_queue.cpp) |
+| Queue Using Ll | [Code](12_Queue/Queue_using_LL.cpp) |
+| Basics | [Code](12_Queue/basics.cpp) |
+| Stack Queue | [Code](12_Queue/stack_queue.cpp) |
 
 </details>
 
